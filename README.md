@@ -1,7 +1,3 @@
 # test
 
-$y=x^2$
-
-| One | Two |
-| :------------- | :------------- |
-| 1 | 2 |
+https://github.com/Piroro-hs/react-native-file-picker/pull/1
